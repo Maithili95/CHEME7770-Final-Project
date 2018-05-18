@@ -1,3 +1,3 @@
 # CHEME7770-Final-Project
-Macromolecular crowding effects on reaction rates of a biofilm effector system
+Macromolecular crowding effects on reaction rates of a biofilm effector system /n
 Contains sample code for the project
